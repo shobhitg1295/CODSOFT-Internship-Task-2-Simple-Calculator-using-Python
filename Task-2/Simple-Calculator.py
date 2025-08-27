@@ -7,6 +7,7 @@ while True:
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter second number: "))
 
+    # Options
     print("\nChoose operation:")
     print(" +  Addition")
     print(" -  Subtraction")
