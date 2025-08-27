@@ -3,7 +3,7 @@ print("Simple Calculator")
 while True:
     print("\nNew Calculation:")
 
-    # Take inputs
+    # Take Inputs
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter second number: "))
 
